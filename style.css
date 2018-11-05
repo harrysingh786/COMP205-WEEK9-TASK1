@@ -1,0 +1,12 @@
+.books h1{ 
+    font-size:20px;
+    color:olivedrab;
+}
+p{
+    font-size:30px;
+    color:gold;
+}
+p.large-text {
+    font-size:40px;
+    color:blue;
+}
